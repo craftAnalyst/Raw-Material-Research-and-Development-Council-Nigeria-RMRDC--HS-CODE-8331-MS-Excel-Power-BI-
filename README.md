@@ -10,7 +10,7 @@ This project was given to me in September, 2024, to analyze by the lead analyst 
 🔹In this project we will be exploring on the product types, cored wire base metal for electric ack welding, coated rods and cored wire of base metal for soldering, brazing or welding by flame
 and other articles of heading 83.11, seeing the relationships between variables. 
 ## Dashboards
-<a href="https://github.com/craftAnalyst/World-Health-Organization-Suicide-Rate-Analysis-Power-BI-/blob/main/PWBI%20FINAL.jpg">View Dashboard</a>  
+<a href="https://github.com/craftAnalyst/Raw-Material-Research-and-Development-Council-Nigeria-RMRDC-HS-CODE-8331-MS-Excel-Power-BI-/blob/main/Rmrdc%20t.jpg">View Dashboard.1</a>  
 <a href="https://github.com/craftAnalyst/World-Health-Organization-Suicide-Rate-Analysis-Power-BI-/blob/main/PWBI%20FINAL.jpg">View Dashboard</a>  
 <a href="https://github.com/craftAnalyst/World-Health-Organization-Suicide-Rate-Analysis-Power-BI-/blob/main/PWBI%20FINAL.jpg">View Dashboard</a>
 This report presents insights derived from analyzing import data using Power BI. The analysis covers product values and quantities, trends over time, the impact of exchange rates, and
