@@ -1,4 +1,4 @@
-# Raw-Material-Research-and-Development-Council-Nigeria-RMRDC--HS-CODE-8331-MS-Excel-Power-BI-
+# Raw-Material-Research-and-Development-Council-Nigeria-RMRDC--HS-CODE-8331-MS-Excel-Power-BI-  
 This Data Analysis project utilizes Microsoft Excel for extensive data cleaning and Power BI for data visualization to gain valuable insight into import items by Nigeria Customs based on tariffs, taxes, and import/export regulations from 2021-2023, also relationship between variables for strategic decision making.  
 
 HS CODE 8331 - 2021-2023  
@@ -15,7 +15,7 @@ performance by HS code and importers. The findings highlight key product types a
 The slicers positioned at the topmost right of the report provide dynamic filtering capabilities, enabling a deeper exploration of the data. By adjusting these slicers, users can uncover
 detailed insights across various dimensions.  
 
-## Import Analysis
+## Import Analysis  
 🔹The analysis reveals that Core Wire Base of Metal is the leading product by both value (₦8.95B, 83.92%) and quantity (12.22M kg, 75.92%). It is followed by Core Rods and Core Wire
 (₦1.07B, 10.07%; 2.89M kg, 17.92%) and other products (₦640.87M, 6.01%; 990.63k kg, 6.15%).  
 🔹Breaking down by HS codes, HS Code 8311100000 leads with a value of ₦6.40B (60.02%) and quantity of 10.97M kg (68.12%). HS Code 8311200000 follows at ₦2.54B (23.83%) and
@@ -28,17 +28,17 @@ impact, particularly on 2023 values.
 🔹Top importers by quantity include Mangal Industry Ltd (1.88M kg) and African Natural Resources and Mines (1.48M kg). By value, Dangote Cement Plc (₦1.18B) and Daewoo Engr. &
 Construction Nig Ltd (₦1.08B) led, with African Natural Resources and Mines Ltd also featuring prominently in both categories.  
 
-## General Observations
-🔹Total transactions across the years maintained parity at annual intervals.
-🔹2022 saw a significant increase in both value and quantity, followed by a slight reduction in 2023.
-🔹Cored wire dominated imports in both value and quantity, showing consistent growth over time.
-🔹Coated rods showed moderate growth but lacked stability in value and import capability.
-🔹Other products remained minimal in terms of importation and value.
+## General Observations  
+🔹Total transactions across the years maintained parity at annual intervals.  
+🔹2022 saw a significant increase in both value and quantity, followed by a slight reduction in 2023.  
+🔹Cored wire dominated imports in both value and quantity, showing consistent growth over time.  
+🔹Coated rods showed moderate growth but lacked stability in value and import capability.  
+🔹Other products remained minimal in terms of importation and value.  
 
-## Recommendations
-🔹Focus on optimizing import strategies for core wire products due to their high contribution to value and quantity.
-🔹Monitor exchange rate impacts on import costs and consider strategies to mitigate risks.
-🔹Investigate reasons behind the decline in coated rod imports and explore ways to stabilize this category.
-🔹Strengthen relationships with top-performing importers like Dangote Cement Plc and African Natural Resources and Mines to sustain growth.
+## Recommendations  
+🔹Focus on optimizing import strategies for core wire products due to their high contribution to value and quantity.  
+🔹Monitor exchange rate impacts on import costs and consider strategies to mitigate risks.  
+🔹Investigate reasons behind the decline in coated rod imports and explore ways to stabilize this category.  
+🔹Strengthen relationships with top-performing importers like Dangote Cement Plc and African Natural Resources and Mines to sustain growth.  
 
 
