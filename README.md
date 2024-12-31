@@ -1,0 +1,2 @@
+# Raw-Material-Research-and-Development-Council-Nigeria-RMRDC--HS-CODE-8331-MS-Excel-Power-BI-
+This Data Analysis project utilizes Microsoft Excel for extensive data cleaning and Power BI for data visualization to gain valuable insight into import items by Nigeria Customs based on tariffs, taxes, and import/export regulations from 2021-2023, also relationship between variables for strategic decision making.
