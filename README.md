@@ -12,7 +12,7 @@ and other articles of heading 83.11, seeing the relationships between variables.
 ## Dashboards
 <a href="https://github.com/craftAnalyst/Raw-Material-Research-and-Development-Council-Nigeria-RMRDC-HS-CODE-8331-MS-Excel-Power-BI-/blob/main/rmrdc%20A.jpg">View Dashboard.1</a>  
 <a href="https://github.com/craftAnalyst/Raw-Material-Research-and-Development-Council-Nigeria-RMRDC-HS-CODE-8331-MS-Excel-Power-BI-/blob/main/rmrdc%20e.jpg">View Dashboard.2</a>  
-<a href="https://github.com/craftAnalyst/Raw-Material-Research-and-Development-Council-Nigeria-RMRDC-HS-CODE-8331-MS-Excel-Power-BI-/blob/main/Rmrdc%20t.jpg">View Dashboard.3</a>
+<a href="https://github.com/craftAnalyst/Raw-Material-Research-and-Development-Council-Nigeria-RMRDC-HS-CODE-8331-MS-Excel-Power-BI-/blob/main/Rmrdc%20t.jpg">View Dashboard.3</a>  
 This report presents insights derived from analyzing import data using Power BI. The analysis covers product values and quantities, trends over time, the impact of exchange rates, and
 performance by HS code and importers. The findings highlight key product types and import patterns from 2021 to 2023.  
 The slicers positioned at the topmost right of the report provide dynamic filtering capabilities, enabling a deeper exploration of the data. By adjusting these slicers, users can uncover
