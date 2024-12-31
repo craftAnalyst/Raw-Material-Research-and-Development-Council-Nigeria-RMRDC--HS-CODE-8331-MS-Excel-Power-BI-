@@ -30,6 +30,10 @@ value and quantity, while Coated Rods saw an increase in 2022 but declined in 20
 impact, particularly on 2023 values.  
 🔹Top importers by quantity include Mangal Industry Ltd (1.88M kg) and African Natural Resources and Mines (1.48M kg). By value, Dangote Cement Plc (₦1.18B) and Daewoo Engr. &
 Construction Nig Ltd (₦1.08B) led, with African Natural Resources and Mines Ltd also featuring prominently in both categories.  
+## Dashboards
+![rmrdc A](https://github.com/user-attachments/assets/7c6e98d9-2076-45b8-be42-7f0c7d20662f)  
+![rmrdc e](https://github.com/user-attachments/assets/271faa3c-5795-47ce-af5c-8ca99d4c98ec)  
+![Rmrdc t](https://github.com/user-attachments/assets/11e0a7c1-c514-483c-a291-c1cfe57be8ec)
 
 ## General Observations  
 🔹Total transactions across the years maintained parity at annual intervals.  
