@@ -1,15 +1,18 @@
 # Raw-Material-Research-and-Development-Council-Nigeria-RMRDC--HS-CODE-8331-MS-Excel-Power-BI-  
 This Data Analysis project utilizes Microsoft Excel for extensive data cleaning and Power BI for data visualization to gain valuable insight into import items by Nigeria Customs based on tariffs, taxes, and import/export regulations from 2021-2023, also relationship between variables for strategic decision making.  
 
-HS CODE 8331 - 2021-2023  
+HS CODE 8331 - 2021-2023   
 
 This project was given to me in September, 2024, to analyze by the lead analyst in the organization so as to be presented to stakeholders for strategic decision making.  
 🔹This is a Project on HS Code 8331 Records from 2021-2023 exploring the relationship between variables.  
 🔹HS code is an abbreviation for harmonized system code, it is a standardized numerical method of classifying traded products.  
 🔹It is used by customs authority and international organizations to identify products for the purpose of applying tariffs, taxes, and import/export regulations.  
 🔹In this project we will be exploring on the product types, cored wire base metal for electric ack welding, coated rods and cored wire of base metal for soldering, brazing or welding by flame
-and other articles of heading 83.11, seeing the relationships between variables.   
-
+and other articles of heading 83.11, seeing the relationships between variables. 
+## Dashboards
+<a href="https://github.com/craftAnalyst/World-Health-Organization-Suicide-Rate-Analysis-Power-BI-/blob/main/PWBI%20FINAL.jpg">View Dashboard</a>  
+<a href="https://github.com/craftAnalyst/World-Health-Organization-Suicide-Rate-Analysis-Power-BI-/blob/main/PWBI%20FINAL.jpg">View Dashboard</a>  
+<a href="https://github.com/craftAnalyst/World-Health-Organization-Suicide-Rate-Analysis-Power-BI-/blob/main/PWBI%20FINAL.jpg">View Dashboard</a>
 This report presents insights derived from analyzing import data using Power BI. The analysis covers product values and quantities, trends over time, the impact of exchange rates, and
 performance by HS code and importers. The findings highlight key product types and import patterns from 2021 to 2023.  
 The slicers positioned at the topmost right of the report provide dynamic filtering capabilities, enabling a deeper exploration of the data. By adjusting these slicers, users can uncover
